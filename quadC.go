@@ -23,7 +23,7 @@ func QuadC(x, y int) {
 				fmt.Print(" ")
 			}
 			if x > 1 {
-				fmt.Println("B")
+				fmt.Print("B")
 			}
 			fmt.Println("")
 		}
