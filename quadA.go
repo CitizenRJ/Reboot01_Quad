@@ -2,7 +2,7 @@ package piscine
 
 import "fmt"
 
-func QuadA(x,y int) {
+func QuadA(x, y int) {
 
 	if y > 0 && x > 0 {
 
@@ -11,7 +11,7 @@ func QuadA(x,y int) {
 		for i := 0; i < x-2; i++ {
 			fmt.Print("-")
 		}
-	if x > 1{
+	if x > 1 {
 		fmt.Print("o")
 	}
 	fmt.Println("")	
