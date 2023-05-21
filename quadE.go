@@ -2,7 +2,7 @@ package piscine
 
 import "fmt"
 
-func QuadC(x, y int) {
+func QuadE(x, y int) {
 	if x < 1 || y < 1 {
 		return
 	}
